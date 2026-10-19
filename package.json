@@ -4,8 +4,7 @@
   "description": "Audits explicit npm package-lock evidence against a local npm cache and recovers only integrity-verified exact release tarballs.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/computer-code-engineering-services-section.git",
-    "directory": "services/javascript-engineering-services-section/services/javascript-node-services-section/services/jsnode-packaging-services-section/services/npm-services-section/services/npm-cache-services-section/services/npm-cache-release-recovery-service"
+    "url": "git+https://github.com/red-cup-engineering/npm-cache-release-recovery-service.git"
   },
   "type": "module",
   "private": false,
