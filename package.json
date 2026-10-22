@@ -34,5 +34,9 @@
   "dependencies": {
     "cacache": "20.0.4",
     "@red-cup-engineering/javascript-file-services-section": "0.1.2"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
   }
 }
